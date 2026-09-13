@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @MenakaSaravanan
-- 👀 I’m interested in computer application
-- 🌱 I’m currently learning PYTHON
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me menakasaravanan236@gmail.com
-- 😄 Pronouns: ...Ms
-- ⚡ Fun fact: ...
-
-<!---
-MenakaSaravanan/MenakaSaravanan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 BCA Graduate | Python Developer | NLP/Data Analyst | Building AI-powered solutions
+📊 Tech: Python • Flask • NLP (NLTK, TF-IDF, LDA) • SQL • GCP • Tableau • Power BI
+💼 CyberNaut Intern | Project Rudder Expert Contributor
+🔗 Portfolio: [https://menaka-recruiter-por-nk61.bolt.host/] | Email: menakasaravanan236@gmail.com
